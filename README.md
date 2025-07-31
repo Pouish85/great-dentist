@@ -86,8 +86,7 @@ $ npm install
 
 <div align="center">
   <h3>About</h3>
-<img alt="Preview-alt-name" src="/assets/images/about
-.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
+<img alt="Preview-alt-name" src="/assets/images/about.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
 
 </div>
 
