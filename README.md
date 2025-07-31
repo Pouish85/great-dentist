@@ -81,26 +81,19 @@ $ npm install
 
 <div align="center">
   <h3>Home</h3>
-  <div style="display: flex; justify-content: center; gap: 10px">
-    <img alt="Preview-alt-name" src="/assets/images/home-desktop.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
-  <img alt="Preview-alt-name" src="/assets/images/home-mobile.png" style="max-height: 600px; width: auto; display: block; margin: 0 auto; border-radius: 10px" />
-</div>
+<img alt="Preview-alt-name" src="/assets/images/home.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
 </div>
 
 <div align="center">
   <h3>About</h3>
-<div style="display: flex; justify-content: center; gap: 10px">
-  <img alt="Preview-alt-name" src="/assets/images/about-desktop.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
-  <img alt="Preview-alt-name" src="/assets/images/about-mobile.png" style="max-height: 600px; width: auto; display: block; margin: 0 auto; border-radius: 10px" />
-</div>
+<img alt="Preview-alt-name" src="/assets/images/about
+.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
+
 </div>
 
 <div align="center">
   <h3>Contact</h3>
-<div style="display: flex; justify-content: center; gap: 10px">
-  <img alt="Preview-alt-name" src="/assets/images/contact-desktop.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
-  <img alt="Preview-alt-name" src="/assets/images/contact-mobile.png" style="max-height: 600px; width: auto; display: block; margin: 0 auto; border-radius: 10px" />
-</div>
+<img alt="Preview-alt-name" src="/assets/images/contact.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
 </div>
 
 <br />
