@@ -81,18 +81,18 @@ $ npm install
 
 <div align="center">
   <h3>Home</h3>
-<img alt="Preview-alt-name" src="/assets/images/home.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
+<img alt="home desktop and mobile view" src="/assets/images/home.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
 </div>
 
 <div align="center">
   <h3>About</h3>
-<img alt="Preview-alt-name" src="/assets/images/about.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
+<img alt="about desktop and mobile view" src="/assets/images/about.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
 
 </div>
 
 <div align="center">
   <h3>Contact</h3>
-<img alt="Preview-alt-name" src="/assets/images/contact.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
+<img alt="contact desktop and mobile view" src="/assets/images/contact.png" style="max-width: 600px; display: block; margin: 0 auto; border-radius: 10px; object-fit: contain" />
 </div>
 
 <br />
